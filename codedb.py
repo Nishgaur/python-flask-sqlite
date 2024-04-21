@@ -39,7 +39,7 @@ class DatabaseManager:
 
 # Example usage:
 if __name__ == "__main__":
-    db_manager = DatabaseManager('example.db')
+    db_manager = DatabaseManager('sample.db')
     db_manager.create_tables()
 
     # Inserting users
